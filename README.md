@@ -1,4 +1,4 @@
-Project Structure:
+# Project Structure:
 ```bash
 SimpleCalculator
 │   README.md
