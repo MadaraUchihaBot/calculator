@@ -1,8 +1,8 @@
 # Project Structure:
 ```bash
 SimpleCalculator
-│   README.md
-│   calculator.py
+│-- README.md
+│-- calculator.py
 ```
 
 # Simple Calculator
